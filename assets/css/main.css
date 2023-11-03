@@ -1709,6 +1709,35 @@ section {
   background-color: #e56de9;
 }
 
+.close-modal-button {
+  font-family: var(--font-primary);
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  border: 2px solid var(--color-primary);
+  background-color: #a306a8;
+}
+.close-modal-button:hover {
+  font-family: var(--font-primary);
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  border: 2px solid var(--color-primary);
+  background-color: #e56de9;
+}
+
 .fleeky .info .btn-get-started:hover {
   background: var(--color-primary);
 }
